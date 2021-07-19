@@ -1,1 +1,2 @@
-Hi there
+Hello there
+I am new at git hub
